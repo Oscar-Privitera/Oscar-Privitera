@@ -33,7 +33,7 @@ Passioné par les animes / mangas, la VR, et la marche 🚶🏻‍♂️
 
  <hr/>
  
-<h2 align="center">💻 Languages-Frameworks-Outls 💻</h2>
+<h2 align="center">💻 Languages-Frameworks-Outils 💻</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
