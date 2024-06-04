@@ -23,10 +23,10 @@ Passioné par les animes / mangas, la VR, et la marche 🚶🏻‍♂️
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="30px"/>
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" target="_blank" width="30px"/>
+    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" target="_blank" width="30px"/>
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://am-list.fr" target="_blank">
+     <img src="https://am-list.fr/img/logo-v2.ecf00815.svg" width="90px" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
