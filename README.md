@@ -9,7 +9,7 @@
 
 <div align="center">
  
- Passioné par le design d'interface agréable à l'oeil et à l'utilisation 😄
+ Passioné par le design d'interface agréable à l'oeil et à l'utilisation ! 😄
  
  Je suis actuellement en plein développement d'une application web !
 
