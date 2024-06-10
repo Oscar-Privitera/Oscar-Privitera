@@ -1,8 +1,8 @@
-<h1>⭐  Bonjour ! Je suis Oscar Privitera ⭐ </h1>
+<h1> Bonjour ✌🏻 !  Je suis Oscar Privitera ! </h1>
 
-=======================================================================================================
+===============================================================================
 
-Développeur web front-end junior
+Développeur web front-end junior de 24 ans
 --------------------------------
 
 J'apprends le développement web depuis 3 ans. J'ai un profil front-end, cependant j'ai travaillé avec du backend et des bases de données ( création d'API REST, modélisation de base de bdd ).
