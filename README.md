@@ -2,7 +2,6 @@
 
 <h1 align="left">
     <img src="https://pa1.aminoapps.com/6920/9c787c4b0e9888b4a1765af0aacae317a7f7aa46r1-500-268_hq.gif"/>
-    <img src="https://pa1.aminoapps.com/6920/9c787c4b0e9888b4a1765af0aacae317a7f7aa46r1-500-268_hq.gif"/>
 </h1>
 
 Développeur web front-end junior de 24 ans
