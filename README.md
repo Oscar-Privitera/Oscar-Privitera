@@ -1,20 +1,16 @@
-<h1 align="center">Hi 👋 My name is Oscar Privitera</h1>
-<h1 align="center">
-    <img src="https://pa1.aminoapps.com/6920/9c787c4b0e9888b4a1765af0aacae317a7f7aa46r1-500-268_hq.gif"/>
-</h1>
+<h1>⭐  Bonjour ! Je suis Oscar Privitera ⭐ </h1>
 
-=======================================================================================================================================
+=======================================================================================================
 
 Développeur web front-end junior
 --------------------------------
 
 J'apprends le développement web depuis 3 ans. J'ai un profil front-end, cependant j'ai travaillé avec du backend et des bases de données ( création d'API REST, modélisation de base de bdd ).
 
-* 🌍  I'm based in France
-* 🖥️  See my portfolio at [AM-lList](http://am-list.fr)
+* 🌍  Je vis actuellement en France 🇫🇷
 * ✉️  You can contact me at [oscarprivitera@proton.me](mailto:oscarprivitera@proton.me)
-* 🚀  I'm currently working on [AM-List](http://am-list.fr)
-* 🧠  I'm learning Golang, Nuxt.JS, Docker, Github Actions.
+* 🚀  Je travail actuellement sur un projet d'application web en rapport avec le monde des animes [AM-List](http://am-list.fr)
+* 🧠  En train d'apprendre à maîtriser Golang, Nuxt.JS, Docker, Github Actions...
 
 ### Skills
 
@@ -35,5 +31,3 @@ J'apprends le développement web depuis 3 ans. J'ai un profil front-end, cependa
 <a href="http://www.github.com/Oscar-Privitera"><img src="https://github-readme-stats.vercel.app/api?username=Oscar-Privitera&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Oscar-Privitera's GitHub stats" /></a>
 
 <a href="http://www.github.com/Oscar-Privitera"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Oscar-Privitera&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Oscar-Privitera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oscar-Privitera&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
