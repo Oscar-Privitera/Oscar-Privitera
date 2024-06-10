@@ -1,9 +1,8 @@
-<h1 align="center">💻 ✌🏻 HEY ! ✌🏻 💻</h1>
+<h1 align="center">Hi 👋 My name is Oscar Privitera</h1>
 <h1 align="center">
     <img src="https://pa1.aminoapps.com/6920/9c787c4b0e9888b4a1765af0aacae317a7f7aa46r1-500-268_hq.gif"/>
 </h1>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oscar Privitera
 =======================================================================================================================================
 
 Développeur web front-end junior
