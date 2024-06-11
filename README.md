@@ -1,7 +1,7 @@
 <h1 align="center"> Bonjour ✌🏻 !  Je suis Oscar Privitera ! </h1>
 
 <h1 align="center">
-    <img src="https://media1.tenor.com/m/paU7ZLSP3b0AAAAC/evrima-server.gif" height="225px"/>
+    <img src="https://i.pinimg.com/originals/ed/58/01/ed580186e0ebf381ea27421ed26fc41b.gif" height="255px"/>
 </h1>
 
 <h1 align="center">Développeur web front-end junior</h1>
