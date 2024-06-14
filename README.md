@@ -9,7 +9,7 @@
 <p align="center">J'apprends le développement web depuis 3 ans. J'ai un profil front-end, cependant j'ai travaillé avec du backend et des bases de données ( création d'API REST, modélisation de base de bdd ).</p>
 
 <p align="center">🌍  Je vis actuellement en France 🇫🇷</p>
-<p align="center">✉️  Vous pouvez me contacter à [oscarprivitera@proton.me](mailto:oscarprivitera@proton.me)</p>
+<p align="center">✉️  Vous pouvez me contacter à <a href="mailto:oscarprivitera@proton.me">oscarprivitera@proton.me</a></p>
 <p align="center"> 🚀  Je travail actuellement sur un projet d'application web en rapport avec le monde des animes [AM-List](http://am-list.fr)</p>
 <p align="center"> 🧠  En train d'apprendre à maîtriser Golang, Nuxt.JS, Docker, Github Actions...</p>
 
