@@ -4,7 +4,7 @@
     <img src="https://i.pinimg.com/originals/9f/40/34/9f403475da2a117ff5074c7d661753e2.gif" height="255px"/>
 </h1>
 
-<h1 align="center">Développeur web front-end junior</h1>
+<h1 align="center">Développeurr web front-end junior</h1>
 
 <p align="center">J'apprends le développement web depuis 3 ans. J'ai un profil front-end, cependant j'ai travaillé avec du backend et des bases de données ( création d'API REST, modélisation de base de bdd ).</p>
 
