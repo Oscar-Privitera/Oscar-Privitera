@@ -1,4 +1,4 @@
-<h1 align="center"> Bonjour 👋🏻 !  Je suis Oscar Privitera ! </h1>
+<h1 align="center"> Bonjour 👋🏻 !  Je suis Oscar Privitera ! 🚀</h1>
 
 <h1 align="center">
     <img src="https://i.pinimg.com/originals/9f/40/34/9f403475da2a117ff5074c7d661753e2.gif" height="255px"/>
