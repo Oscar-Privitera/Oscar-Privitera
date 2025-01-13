@@ -1,4 +1,4 @@
-# Salut je m'appelle Oscar Privitera, 24 ans, Développeur Web Front-End
+# Salut je m'appelle Oscar Privitera, Développeur Web Front-End
 
 A collection of GitHub profile README's examples.
 
