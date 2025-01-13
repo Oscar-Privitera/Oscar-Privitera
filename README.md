@@ -3,6 +3,7 @@
 Depuis 2021, je me passionne pour le développement web, et plus particulièrement pour le frontend. Concevoir des interfaces modernes et soignées, tout en optimisant l’expérience utilisateur, est devenu mon principal moteur.
 
 Vous pouvez me joindre sur [privitera.oscar@protonmail.com](mailto:tonadresse@email.com)
+
 Plus d'informations sur moi ici : [oscarprivitera.dev](https://oscarprivitera.dev)
 
 Mon projet de plateforme pour les fans d'animes : [AM-List.fr](https://am-list.fr)
