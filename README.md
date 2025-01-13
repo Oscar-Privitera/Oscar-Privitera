@@ -2,8 +2,12 @@
 
 Depuis 2021, je me passionne pour le développement web, et plus particulièrement pour le frontend. Concevoir des interfaces modernes et soignées, tout en optimisant l’expérience utilisateur, est devenu mon principal moteur.
 
-[Contributions](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) are welcome. Read the [Guidelines](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/master/CONTRIBUTING.md) on how to contribute.
-Feel free to add your or someone else's GitHub profile README file.
+Vous pouvez me joindre sur [privitera.oscar@protonmail.com](mailto:tonadresse@email.com)
+Plus d'informations sur moi ici : [oscarprivitera.dev](https://oscarprivitera.dev)
 
-Don't forget to hit the :star: if you like this repo.
+Mon projet de plateforme pour les fans d'animes : [AM-List.fr](https://am-list.fr)
+
+## Stack Technique
+
+Nuxt JS 3, Vue JS 3, Node JS, Express JS, Docker
 
