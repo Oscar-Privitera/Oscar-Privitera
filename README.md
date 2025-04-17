@@ -6,7 +6,7 @@ Vous pouvez me joindre sur [privitera.oscar@protonmail.com](mailto:tonadresse@em
 
 Plus d'informations sur moi ici : [oscarprivitera.dev](https://oscarprivitera.dev)
 
-Mon projet de plateforme pour les fans d'animes : [Teverance.com](https:/teverance.com)
+Mon projet de plateforme pour les fans d'animes : [Teverance.com](https://teverance.com)
 
 ## Stack Technique
 
