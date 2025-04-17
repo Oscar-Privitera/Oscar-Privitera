@@ -12,6 +12,3 @@ Mon projet de plateforme pour les fans d'animes : [Teverance.com](https:/teveran
 
 Nuxt JS 3, Vue JS 3, Node JS, Express JS, Docker
 
-### En ce moment
-J'apprend actuellement le COBOL
-
