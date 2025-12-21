@@ -1,14 +1,48 @@
-# 🚀 Salut je m'appelle Oscar Privitera, Développeur Web Front-End
+# 🚀 Oscar Privitera – Développeur Web Full-Stack | Fondateur de Yeonity
 
-Depuis 2021, je me passionne pour le développement web, et plus particulièrement pour le frontend. Concevoir des interfaces modernes et soignées, tout en optimisant l’expérience utilisateur, est devenu mon principal moteur.
+---
 
-Vous pouvez me joindre sur [privitera.oscar@protonmail.com](mailto:tonadresse@email.com)
+## À propos
 
-Plus d'informations sur moi ici : [oscarprivitera.dev](https://oscarprivitera.dev)
+Depuis 2021, je me passionne pour le développement web, en particulier le frontend. Mon moteur : concevoir des interfaces modernes, performantes et agréables à utiliser.
 
-Mon projet de plateforme pour les fans d'animes : [Yeonity.com](https://yeonity.com)
+Je suis également le fondateur de **Yeonity**, une plateforme web dédiée aux fans d’animes pour suivre et découvrir leurs séries préférées : [Yeonity.com](https://yeonity.com).
 
-## Stack Technique
+**Stack technique :**  
+Nuxt JS 4,  Node.js, Express, Supabase, Tailwind CSS, CI/CD Vercel, Docker
 
-Nuxt JS 3, Vue JS 3, Node JS, Express JS, Docker
+**Contact :** [privitera.oscar@protonmail.com](mailto:privitera.oscar@protonmail.com)  
+**Portfolio :** [oscarprivitera.dev](https://oscarprivitera.dev)
 
+---
+
+## Expériences
+
+### Fondateur – Yeonity
+*2025 – Aujourd’hui*
+
+- Développement full-stack de la plateforme (Nuxt JS 4, Node.js, Supabase, Tailwind CSS)
+- Conception et implémentation de l’interface utilisateur
+- CI/CD avec Vercel pour déploiement continu
+- Gestion des releases et versioning, suivi de changelog public
+- Optimisation de l’expérience utilisateur et design d’interactions
+
+---
+
+## Compétences techniques
+
+- **Frontend :** Nuxt JS 4, Vue JS 3, Tailwind CSS  
+- **Backend :** Node.js, Express, Supabase  
+- **DevOps / CI/CD :** Vercel, Docker, Git, GitHub  
+- **Design & UX :** Interfaces modernes et ergonomiques  
+- **Gestion de projet :** Versioning, changelog, suivi des releases
+
+---
+
+## Projets
+
+- **Yeonity** – Plateforme web pour fans d’animes  
+  [yeonity.com](https://yeonity.com)  
+  MVP avec suivi d’animes, gestion de profil utilisateur, pages de découverte et interface moderne responsive.
+
+---
