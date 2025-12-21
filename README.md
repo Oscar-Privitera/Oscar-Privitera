@@ -43,6 +43,5 @@ Nuxt JS 4,  Node.js, Express, Supabase, Tailwind CSS, CI/CD Vercel, Docker
 
 - **Yeonity** – Plateforme web pour fans d’animes  
   [yeonity.com](https://yeonity.com)  
-  MVP avec suivi d’animes, gestion de profil utilisateur, pages de découverte et interface moderne responsive.
 
 ---
