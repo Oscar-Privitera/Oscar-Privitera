@@ -1,4 +1,4 @@
-# 🚀 Oscar Privitera – Développeur Web Full-Stack | Fondateur de Yeonity
+# 🚀 Oscar Privitera – Développeur Web Full-Stack | Solo Fondateur de Yeonity
 
 ---
 
