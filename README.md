@@ -1,18 +1,17 @@
-# 🚀 Oscar Privitera – Développeur Web Full-Stack | Solo Fondateur de Yeonity
+# Oscar Privitera – Full-Stack Web Developer | Founder of Yeonity
 
 ---
 
-## À propos
+## About
 
-Depuis 2021, je me passionne pour le développement web, en particulier le frontend. Mon moteur : concevoir des interfaces modernes, performantes et agréables à utiliser.
+Since 2021, I have been dedicated to web development with a strong focus on frontend engineering. My passion lies in crafting modern, high-performance, and user-friendly interfaces that deliver exceptional digital experiences.
 
-Je suis également le fondateur de **Yeonity**, une plateforme web dédiée aux fans d’animes pour suivre et découvrir leurs séries préférées : [Yeonity.com](https://yeonity.com).
+I am also the founder of **Yeonity**, a comprehensive web platform designed for anime enthusiasts to track, discover, and manage their favorite series: [Yeonity.com](https://yeonity.com).
 
-**Stack technique :**  
-Nuxt JS 4,  Node.js, Express, Supabase, Tailwind CSS, CI/CD Vercel, Docker
+**Tech Stack:**  
+Nuxt JS 4 • Node.js • Express • Supabase • Tailwind CSS • Vercel CI/CD • Docker
 
-**Contact :** [privitera.oscar@protonmail.com](mailto:privitera.oscar@protonmail.com)  
-**Portfolio :** [oscarprivitera.dev](https://oscarprivitera.dev)
+**Contact:** [privitera.oscar@protonmail.com](mailto:privitera.oscar@protonmail.com)  
+**Portfolio:** [oscarprivitera.dev](https://oscarprivitera.dev)
 
 ---
-
