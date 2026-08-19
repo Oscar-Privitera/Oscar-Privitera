@@ -1,4 +1,4 @@
-# Full-Stack Web Developer — Yeonity Founder
+# French Full-Stack Web Developer — Yeonity Founder
 ---
 ## Profile
 Full-stack developer specialized in modern JavaScript/TypeScript ecosystems. Founder and sole developer of **Yeonity**, a production web platform serving a 22,000+ entry catalog, custom search infrastructure, and a PWA/mobile deployment pipeline.
